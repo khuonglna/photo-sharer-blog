@@ -1,0 +1,10 @@
+
+android/app/google-services.json
+
+firebase.json
+
+build/
+
+lib/firebase_options.dart
+
+ios/Runner/GoogleService-Info.plist
